@@ -1,6 +1,6 @@
-# Darker Dungeons Roll20
+# Nexus 5e
 
-A Roll20 character sheet for **Giffyglyph's Darker Dungeons**. This project contains source code and build scripts to generate both development and live sheet code.
+A Roll20 character sheet for the **Nexus 5e** campaign based on **Giffyglyph's Darker Dungeons**. This project contains source code and build scripts to generate both development and live sheet code.
 
 ## Requirements
 
